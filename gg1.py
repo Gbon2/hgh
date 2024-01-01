@@ -1,3 +1,4 @@
+print("Классный код только здесь!")
 print("hello world!")
 while True:
     n = int(input("Введите число: "))
@@ -8,5 +9,4 @@ while True:
     else:
         print("Это число меньше 10")  
 
-
-      
+    
